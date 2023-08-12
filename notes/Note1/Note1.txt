@@ -1,12 +1,27 @@
->>> Impedindo que a raquete saia da tela por cima e por baixo
+--- Movimentação ---
+Sempre que a bola quicar em algum lugar a velocidade dela aumenta
+
+
+--- Impedindo que a raquete saia da tela por cima e por baixo ---
 
 Para fazer com que o objeto da raqueta não consiga passar da tela por cima ou por baixo
 Pode-se criar um objeto de colisão e posicionar ele no teto do level (nos limites)
 E fazer com que a raquete tenha uma colisão com ele
 
-Sempre que a bola quicar em algum lugar a velocidade dela aumenta
-
+-- Som --
 Fazer a bolinha fazer o som de boing ao quicar
 1- Criar o som (importar ele)
 
 2- Tocar o som sempre que a bola quicar em algum lugar
+
+-- Números Aleatórios --
+O computador usa uma SEED de números
+Com base na seed atual o computador define um número "aleatório" que na verdade não é aleatório porque ele
+foi definido pela seed atual.
+Seed1 = 5, 10, 18, 25
+Seed2 = 10, 22, 13, 8
+
+Ao alternar a seed utilizada, se dá a impressão pro usuário que ele está usando um número aleatório toda vez.
+
+4 Direções Desejadas p/ bola:
+45 (0 + 45), 135 (90 + 45), 225 (180 + 45), 315 (270 + 45)
