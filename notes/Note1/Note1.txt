@@ -1,0 +1,12 @@
+>>> Impedindo que a raquete saia da tela por cima e por baixo
+
+Para fazer com que o objeto da raqueta não consiga passar da tela por cima ou por baixo
+Pode-se criar um objeto de colisão e posicionar ele no teto do level (nos limites)
+E fazer com que a raquete tenha uma colisão com ele
+
+Sempre que a bola quicar em algum lugar a velocidade dela aumenta
+
+Fazer a bolinha fazer o som de boing ao quicar
+1- Criar o som (importar ele)
+
+2- Tocar o som sempre que a bola quicar em algum lugar
