@@ -1,3 +1,5 @@
 /// @description Movendo pra baixo
 
-vspeed = vel;
+if (global.dois_jogadores == true) {
+	vspeed = vel;
+}

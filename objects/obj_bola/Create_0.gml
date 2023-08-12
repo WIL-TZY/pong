@@ -3,7 +3,6 @@
 // Aleatorizar a seed
 randomise();
 
-
 // Variável da velocidade
 vel = 2;
 incremento_vel = 0.5;

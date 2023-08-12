@@ -1,5 +1,7 @@
 {
-  "FolderOrderSettings": [],
+  "FolderOrderSettings": [
+    {"name":"Scripts","order":1,"path":"folders/Scripts.yy",},
+  ],
   "ResourceOrderSettings": [
     {"name":"spr_bola","order":4,"path":"sprites/spr_bola/spr_bola.yy",},
     {"name":"obj_raquete2","order":2,"path":"objects/obj_raquete2/obj_raquete2.yy",},

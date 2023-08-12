@@ -1,4 +1,3 @@
-
 alarm[0] = 60;
 
 segundo1 = true;
