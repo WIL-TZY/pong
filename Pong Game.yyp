@@ -26,6 +26,7 @@
   "resources": [
     {"id":{"name":"spr_bola","path":"sprites/spr_bola/spr_bola.yy",},},
     {"id":{"name":"obj_raquete2","path":"objects/obj_raquete2/obj_raquete2.yy",},},
+    {"id":{"name":"obj_contagem","path":"objects/obj_contagem/obj_contagem.yy",},},
     {"id":{"name":"spr_colisao","path":"sprites/spr_colisao/spr_colisao.yy",},},
     {"id":{"name":"obj_bola","path":"objects/obj_bola/obj_bola.yy",},},
     {"id":{"name":"spr_raquete","path":"sprites/spr_raquete/spr_raquete.yy",},},

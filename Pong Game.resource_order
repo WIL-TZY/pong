@@ -3,6 +3,7 @@
   "ResourceOrderSettings": [
     {"name":"spr_bola","order":4,"path":"sprites/spr_bola/spr_bola.yy",},
     {"name":"obj_raquete2","order":2,"path":"objects/obj_raquete2/obj_raquete2.yy",},
+    {"name":"obj_contagem","order":4,"path":"objects/obj_contagem/obj_contagem.yy",},
     {"name":"spr_colisao","order":5,"path":"sprites/spr_colisao/spr_colisao.yy",},
     {"name":"spr_raquete","order":3,"path":"sprites/spr_raquete/spr_raquete.yy",},
     {"name":"obj_raquete1","order":1,"path":"objects/obj_raquete1/obj_raquete1.yy",},

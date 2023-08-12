@@ -3,12 +3,13 @@
 // Aleatorizar a seed
 randomise();
 
+
 // Variável da velocidade
 vel = 2;
 incremento_vel = 0.5;
 
 // Fazer ela começar se movendo
-speed = vel;
+speed = 0;
 
 // Definindo a direção inicial da bola
 // Até 359 pois 360 = 0 no ciclo trigonométrico
@@ -31,4 +32,14 @@ function resolve_angle(_Q1_ANGLE) {
 }
 
 direction = resolve_angle(45);
+
+// Iniciando o alarme da bola para tocar em 1 segundo
+// Como o jogo roda a 60 FPS, então ao iniciar o alarme em 60 ele leva 1 segundo p/ ativar
+alarm[0] = 60;
+
+
+
+
+
+
 
