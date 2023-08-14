@@ -3,12 +3,23 @@
 // Aleatorizar a seed
 randomise();
 
+comecou = false;
+
 // Variável da velocidade
 vel = 2;
 incremento_vel = 0.5;
 
-// Fazer ela começar se movendo
+// Fazer a bola começar parada
 speed = 0;
+
+res = modoDoisJogadores();
+
+if (res == true) {
+	global.dois_jogadores = true;
+}
+else {
+	global.dois_jogadores = false;	
+}
 
 // Definindo a direção inicial da bola
 // Até 359 pois 360 = 0 no ciclo trigonométrico

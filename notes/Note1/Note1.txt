@@ -1,3 +1,5 @@
+Motto: "Se tá dando certo, tá certo"
+
 --- Movimentação ---
 Sempre que a bola quicar em algum lugar a velocidade dela aumenta
 
@@ -25,3 +27,11 @@ Ao alternar a seed utilizada, se dá a impressão pro usuário que ele está usa
 
 4 Direções Desejadas p/ bola:
 45 (0 + 45), 135 (90 + 45), 225 (180 + 45), 315 (270 + 45)
+
+-- Planejando a IA --
+Para o movimento da IA, ela poderá se basear na posição da bola. 
+Se a bola está indo para baixo, a raquete vai se posicionando para baixo.
+Se a bola está indo para cima, a raquete vai se posicionando para cima.
+Como saber se a bola está indo para baixo ou para cima? 
+Com base eu seu movimento vertical (movimentação no eixo y)
+
