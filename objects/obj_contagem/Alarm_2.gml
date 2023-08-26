@@ -1,3 +1,3 @@
 segundo3 = false;
 contagemConcluida = true;
-obj_bola.comecou = true;
+obj_bola.pausa = false;

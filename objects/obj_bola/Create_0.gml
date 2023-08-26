@@ -3,7 +3,12 @@
 // Aleatorizar a seed
 randomise();
 
-comecou = false;
+// Música tema
+audio_play_sound(snd_tema, 1, true);
+
+// Flags
+pausa = true;
+//fim = false; 
 
 // Variável da velocidade
 vel = 2;
@@ -46,10 +51,4 @@ direction = resolve_angle(45);
 // Iniciando o alarme da bola para tocar em 1 segundo
 // Como o jogo roda a 60 FPS, então ao iniciar o alarme em 60 ele leva 1 segundo p/ ativar
 alarm[0] = 60;
-
-
-
-
-
-
 

@@ -25,6 +25,8 @@
     "IDEVersion": "2023.6.0.92",
   },
   "resources": [
+    {"id":{"name":"snd_tema","path":"sounds/snd_tema/snd_tema.yy",},},
+    {"id":{"name":"obj_gol","path":"objects/obj_gol/obj_gol.yy",},},
     {"id":{"name":"spr_bola","path":"sprites/spr_bola/spr_bola.yy",},},
     {"id":{"name":"obj_raquete2","path":"objects/obj_raquete2/obj_raquete2.yy",},},
     {"id":{"name":"obj_contagem","path":"objects/obj_contagem/obj_contagem.yy",},},

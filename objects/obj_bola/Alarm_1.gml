@@ -1,6 +1,3 @@
-/// @description Insert description here
-// You can write your code in this editor
+/// @description Pausa por 1s após gol
 
-
-
-
+pausa = false;

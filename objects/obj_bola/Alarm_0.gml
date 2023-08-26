@@ -1,2 +1,2 @@
-// Dando uma velocidade à bola
-instance_create_layer(room_width/2, room_height/2, "Colisao", obj_contagem);
+/// @description Criando obj_contagem
+instance_create_layer(room_width/2, room_height/2, "Invisiveis", obj_contagem);

@@ -10,4 +10,3 @@ audio_pause_sound(snd_boing);
 
 // Tocando o som de 'boing'
 audio_play_sound(snd_boing, 1, false, 1, 0.1, 3);
-
