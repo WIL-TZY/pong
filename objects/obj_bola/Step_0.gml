@@ -16,7 +16,9 @@ if (instance_exists(obj_contagem)) {
 	}
 }
 else {
+	// Quando a bola tiver resetado no meio da quadra e tiver passado 1s (o jogo despausou)
 	if (pausa == false) {
+		// Inicia o movimento
 		speed = vel;
 	}
 }

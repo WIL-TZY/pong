@@ -25,6 +25,7 @@
     "IDEVersion": "2023.6.0.92",
   },
   "resources": [
+    {"id":{"name":"obj_pontos","path":"objects/obj_pontos/obj_pontos.yy",},},
     {"id":{"name":"snd_tema","path":"sounds/snd_tema/snd_tema.yy",},},
     {"id":{"name":"obj_gol","path":"objects/obj_gol/obj_gol.yy",},},
     {"id":{"name":"spr_bola","path":"sprites/spr_bola/spr_bola.yy",},},
@@ -34,6 +35,7 @@
     {"id":{"name":"scr_modo_de_jogo","path":"scripts/scr_modo_de_jogo/scr_modo_de_jogo.yy",},},
     {"id":{"name":"obj_bola","path":"objects/obj_bola/obj_bola.yy",},},
     {"id":{"name":"spr_raquete","path":"sprites/spr_raquete/spr_raquete.yy",},},
+    {"id":{"name":"rm_principal","path":"rooms/rm_principal/rm_principal.yy",},},
     {"id":{"name":"obj_raquete1","path":"objects/obj_raquete1/obj_raquete1.yy",},},
     {"id":{"name":"obj_colisao","path":"objects/obj_colisao/obj_colisao.yy",},},
     {"id":{"name":"Note1","path":"notes/Note1/Note1.yy",},},
@@ -45,6 +47,7 @@
   ],
   "RoomOrderNodes": [
     {"roomId":{"name":"rm_partida","path":"rooms/rm_partida/rm_partida.yy",},},
+    {"roomId":{"name":"rm_principal","path":"rooms/rm_principal/rm_principal.yy",},},
   ],
   "TextureGroups": [
     {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},

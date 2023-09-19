@@ -8,10 +8,9 @@ audio_play_sound(snd_tema, 1, true);
 
 // Flags
 pausa = true;
-//fim = false; 
 
 // Variável da velocidade
-vel = 2;
+vel = 4;
 incremento_vel = 0.5;
 
 // Fazer a bola começar parada

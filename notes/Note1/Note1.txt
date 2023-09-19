@@ -35,3 +35,9 @@ Se a bola está indo para cima, a raquete vai se posicionando para cima.
 Como saber se a bola está indo para baixo ou para cima? 
 Com base eu seu movimento vertical (movimentação no eixo y)
 
+-- Room inicial --
+	Criar room
+	Adicionar o background e os enfeites
+	Adicionar as raquetes
+	Criar botões (jogar & modo de jogo)
+	
